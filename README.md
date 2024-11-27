@@ -22,13 +22,16 @@
 **1- Hero Section**
 ![Screenshot (1037)](https://github.com/user-attachments/assets/c7b77bd0-b280-4454-b9ee-02a18e613d76)
 
-**2-feature Section**
+**2- Mock Chatbox**
+![Screenshot (1042)](https://github.com/user-attachments/assets/15648ada-bd56-4b4b-8a91-b3484255b3b2)
+
+**3-feature Section**
 ![Screenshot (1038)](https://github.com/user-attachments/assets/7d69482d-eeed-4eb5-8197-4a337b24080e)
 
-**3-Pricing section**
+**4-Pricing section**
 ![Screenshot (1039)](https://github.com/user-attachments/assets/4c7eed4b-5ff7-4668-88a6-01028c54673e)
 
-**4-About Us and Footer**
+**5-About Us and Footer**
 ![Screenshot (1040)](https://github.com/user-attachments/assets/e32ec787-583e-4f77-9954-34cdb5cac4df)
 ts/72970648/5ac02e9b-c008-4d64-895c-0a934fcf5109)
 
@@ -39,7 +42,7 @@ ts/72970648/5ac02e9b-c008-4d64-895c-0a934fcf5109)
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/singhpriya147/Priya_Singh_AI-Powered-Content-Summarizer-Dashboard_Frontend.git
+    git clone https://github.com/singhpriya147/chatBot.git
  
     ```
 
