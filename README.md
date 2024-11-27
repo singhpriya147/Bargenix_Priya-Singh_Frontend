@@ -16,7 +16,7 @@
 
 - **React**: A JavaScript library for building user interfaces.
 - **CSS**: Styling the application.
-- 
+  
 
 ## ScreenShot
 **1- Hero Section**
@@ -42,7 +42,7 @@ ts/72970648/5ac02e9b-c008-4d64-895c-0a934fcf5109)
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/singhpriya147/chatBot.git
+    git clone https://github.com/singhpriya147/Bargenix_Priya-Singh_Frontend.git
  
     ```
 
