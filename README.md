@@ -1,6 +1,6 @@
 # Chatbot product Landing page
 
- This  assignment is landing page of chatbot product page. Please see the live demo at [Chatbot landing page](https://chat-bot-nine-theta.vercel.app/)
+ This  assignment is responsive landing page of chatbot product page. Please see the live demo at [Chatbot landing page](https://chat-bot-nine-theta.vercel.app/)
 
 ## Landing page includes
 
