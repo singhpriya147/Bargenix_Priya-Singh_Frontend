@@ -25,15 +25,16 @@ a:hover {
 body {
   margin: 0;
   display: flex;
-  /* place-items: center; */
+ 
   min-width: 320px;
   min-height: 100vh;
-  /* background-color: antiquewhite; */
+ 
 
 
 
   /* background-image: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); */
-  background-image: linear-gradient(135deg, #f5f7fa 0%, #ddcaed 100%);
+  /* background-image: linear-gradient(135deg, #f5f7fa 0%, #ddcaed 100%); */
+  background-image: linear-gradient(135deg, #f5f7fa 0%, #e6dbef 100%);
 }
 
 h1 {

@@ -6,18 +6,24 @@ import Pricing from './component/Pricing/Pricing'
 import About from './component/About/About'
 import Feature from './component/features/Feature'
 // import ChatBotComp from './component/chatBot/ChatBotComp'
+import Footer from './component/Footer/Footer'
 function App() {
  
 
   return (
     <>
-      <div>
+      <div className='body-main'>
         <Navbar />
         <Hero />
         <Feature />
-        {/* <ChatBotComp /> */}
+
         <Pricing />
         <About />
+      </div>
+      <div className='footer-section'>
+        <div className='footer-content'>
+          <Footer />
+        </div>
       </div>
     </>
   );

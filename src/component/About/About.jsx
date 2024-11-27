@@ -17,14 +17,14 @@ const About = () => {
             AI makes deal-making smarter, faster, and more engaging.
           </p>
 
-          <p>
+          {/* <p>
             At Bargenix AI, we are committed to reshaping the landscape of
             e-commerce through our dynamic chatbot technology. Our purpose is to
             provide an efficient bargaining platform that enhances the
             experience for both buyers and sellers. We are dedicated to driving
             customer satisfaction and empowering businesses to achieve greater
             profitability through intelligent negotiation strategies.
-          </p>
+          </p> */}
         </div>
         <div className='about-img'>
           <img src={image} height={350} width={350} alt='' />
