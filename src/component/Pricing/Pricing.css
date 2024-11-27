@@ -1,0 +1,52 @@
+
+ .pricing-section{
+  /* background-color: rgb(200, 200, 240); */
+  /* height:500px; */
+   display: flex;
+ align-items: center;
+ justify-content: center;
+ flex-direction: column;
+ text-align: center;
+ /* width: 500px; */
+ }
+ li{
+  list-style: none;
+  /* background-color: aqua; */
+  display: flex;
+ align-items: center;
+ /* justify-content: space-between; */
+text-align: start;
+gap: 1rem;
+ }
+ .pricing-cards{
+  display: flex;
+  flex-direction: row;
+  /* background-color: bisque; */
+  gap:1rem;
+ /* align-items: center; */
+ justify-content: center;
+
+ }
+ .subtitle{
+  font-weight: 100;
+  position: relative;
+  top:-1rem;
+ }
+ .price{
+  font-weight: bold;
+ }
+ .card{
+  background-color: rgb(255, 255, 255);
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding:0.5rem;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  width: 300px;
+ }
+ @media (max-width:720px) {
+  .pricing-cards{
+    flex-direction: column;
+  }
+ }
