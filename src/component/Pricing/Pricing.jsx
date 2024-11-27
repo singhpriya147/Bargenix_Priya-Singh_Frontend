@@ -11,7 +11,7 @@ const Pricing = () => {
       </p>
       <div className='pricing-cards'>
         {pricingPlans.map((plan, index) => (
-          // <div className={`card ${plan.popular ? 'popular' : ''}`} key={index}>
+         
           <div className='card' key={index}>
             <h3>{plan.title}</h3>
             <span className='subtitle'>{plan.subtitle}</span>
