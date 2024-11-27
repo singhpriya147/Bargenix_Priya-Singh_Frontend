@@ -52,9 +52,11 @@ width: 300px;
   }
   .feat-right .feature:nth-child(2) {
   margin-left: -2rem;
+  z-index: 100;
 
 }
   .feat-left .feature:nth-child(2) {
   margin-right: -2rem;
+   z-index: 100;
 
 }

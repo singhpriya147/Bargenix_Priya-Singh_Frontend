@@ -20,7 +20,7 @@ const Feature = () => {
             <span>Intelligent conversations</span>
           </div>
           <div className='feature'>
-            <span>Analytics & reporting</span>
+            <span>Analytics and reporting</span>
           </div>
           <div className='feature'>
             <span>Always-on accessibility</span>
